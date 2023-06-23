@@ -1,0 +1,2 @@
+# wpl
+Wizzion Public License
