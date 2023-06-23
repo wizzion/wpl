@@ -3,7 +3,7 @@
 WPL © wizzion.com Unternehmergesellschaft (haftungsbechränkt)
 
 This Wizzion Public Licence (the ‘WPL’) is a version of European Union Public
-Licence restricting  commercial use. WPL applies to the Work (as
+Licence restricting commercial use. WPL applies to the Work (as
 defined below) which is provided under the terms of this Licence. Any use of
 the Work, other than as authorised under this Licence is prohibited (to the
 extent such use is covered by a right of the copyright holder of the Work).
@@ -56,7 +56,7 @@ In this Licence, the following terms have the following meaning:
   essential functionalities at the disposal of any other natural or legal
   person.
 
-- ‘Commercial’: bringing direct monetary, economic, financial or material profit
+- ‘Commercial’: bringing provable monetary, economic, financial or material profit
    to Licensee
 
 - ‘Non-Commercial’: opposite of ‘Commercial’ 
@@ -149,7 +149,7 @@ names, trademarks, service marks, or names of the Licensor, except as required
 for reasonable and customary use in describing the origin of the Work and
 reproducing the content of the copyright notice.
 
-Non-commercial clause: using the Work in a manner direct monetary, economic
+Non-Commercial clause: using the Work in to bring provable monetary, economic
 financial or material profit to the Licensee is not allowed without previous
 written consent granted by the Licensor.
 
@@ -266,3 +266,8 @@ Without prejudice to specific agreement between parties,
   residence or registered office inside a European Union Member State.
 
 new WPL version.
+
+## 16. Self-referential clause
+Definitions and principles stipulated by this Licence apply on the Licence itself. 
+
+First Work licenced under terms of WPL AE53 is WPL AE53 itself.
