@@ -1,4 +1,5 @@
-WIZZION PUBLIC LICENCE v. AE53
+# WIZZION PUBLIC LICENCE v. AE53
+
 WPL © wizzion.com Unternehmergesellschaft (haftungsbechränkt)
 
 This Wizzion Public Licence (the ‘WPL’) is a version of European Union Public
@@ -11,11 +12,11 @@ The Work is provided under the terms of this Licence when the Licensor (as
 defined below) has placed the following notice immediately following the
 copyright notice for the Work:
 
-        Licensed under theWUPL
+**Licensed under the WPL**
 
 or has expressed by any other means his willingness to license under the WPL.
 
-1. Definitions
+## 1. Definitions
 
 In this Licence, the following terms have the following meaning:
 
@@ -58,10 +59,9 @@ In this Licence, the following terms have the following meaning:
 - ‘Commercial’: bringing direct monetary, economic, financial or material profit
    to Licensee
 
-- ‘Non-Commercial’: opposite of ‘Commercial’
-  
+- ‘Non-Commercial’: opposite of ‘Commercial’ 
 
-2. Scope of the rights granted by the Licence
+## 2. Scope of the rights granted by the Licence
 
 The Licensor hereby grants Licensee a worldwide, royalty-free, non-exclusive,
 sublicensable licence to do the following, for the duration of copyright
@@ -92,7 +92,7 @@ Licence.
 Commercial use of the Work or copies thereof is only allowed with explicit consent 
 of the Licensor.
 
-3. Communication of the Source Code
+## 3. Communication of the Source Code
 
 The Licensor may provide the Work either in its Source Code form, or as
 Executable Code. If the Work is provided as Executable Code, the Licensor
@@ -102,14 +102,14 @@ in a notice following the copyright notice attached to the Work, a repository
 where the Source Code is easily and freely accessible for as long as the
 Licensor continues to distribute or communicate the Work.
 
-4. Limitations on copyright
+## 4. Limitations on copyright
 
 Nothing in this Licence except the non-commercial condition is intended to 
 deprive the Licensee of the benefits from any exception or limitation to the 
 exclusive rights of the rights owners in the Work, of the exhaustion of those 
 rights or of other applicable limitations thereto.
 
-5. Obligations of the Licensee
+## 5. Obligations of the Licensee
 
 The grant of the rights mentioned above is subject to some restrictions and
 obligations imposed on the Licensee. Those obligations are the following:
@@ -153,7 +153,7 @@ Non-commercial clause: using the Work in a manner direct monetary, economic
 financial or material profit to the Licensee is not allowed without previous
 written consent granted by the Licensor.
 
-6. Chain of Authorship
+## 6. Chain of Authorship
 
 The original Licensor warrants that the copyright in the Original Work granted
 hereunder is owned by him/her or licensed to him/her and that he/she has the
@@ -167,7 +167,7 @@ Each time You accept the Licence, the original Licensor and subsequent
 Contributors grant You a licence to their contributions to the Work, under the
 terms of this Licence.
 
-7. Disclaimer of Warranty
+## 7. Disclaimer of Warranty
 
 The Work is a work in progress, which is continuously improved by numerous
 Contributors. It is not a finished work and may therefore contain defects or
@@ -182,7 +182,7 @@ rights other than copyright as stated in Article 6 of this Licence.
 This disclaimer of warranty is an essential part of the Licence and a
 condition for the grant of any rights to the Work.
 
-8. Disclaimer of Liability
+## 8. Disclaimer of Liability
 
 Except in the cases of wilful misconduct or damages directly caused to natural
 persons, the Licensor will in no event be liable for any direct or indirect,
@@ -193,7 +193,7 @@ damage, even if the Licensor has been advised of the possibility of such
 damage. However, the Licensor will be liable under statutory product liability
 laws as far such laws apply to the Work.
 
-9. Additional agreements
+## 9. Additional agreements
 
 While distributing the Work, You may choose to conclude an additional
 agreement, defining obligations or services consistent with this Licence.
@@ -204,20 +204,21 @@ Contributor harmless for any liability incurred by, or claims asserted against
 such Contributor by the fact You have accepted any warranty or additional
 liability.
 
-10. Acceptance of the Licence
+## 10. Acceptance of the Licence
 
 The provisions of this Licence is considered to be accepted by executing
-code contained in the Work or by affirming consent in any other similar way, 
-in accordance with the rules of applicable law. Executing the code indicates 
-your clear and irrevocable acceptance of this Licence and all of its terms and 
-conditions.
+code contained in the Work or by executing code from repository in whose main
+folder the file containing this Licence is contained or by affirming consent in 
+any other similar way, in accordance with the rules of applicable law. 
+Executing the code indicates  your clear and irrevocable acceptance of this 
+Licence and all of its terms and conditions.
 
 Similarly, you irrevocably accept this Licence and all of its terms and
 conditions by exercising any rights granted to You by Article 2 of this
 Licence, such as the use of the Work, the creation by You of a Derivative Work
 or the Distribution or Communication by You of the Work or copies thereof.
 
-11. Information to the public
+## 11. Information to the public
 
 In case of any Distribution or Communication of the Work by means of
 electronic communication by You (for example, by offering to download the Work
@@ -226,7 +227,7 @@ website) must at least provide to the public the information requested by the
 applicable law regarding the Licensor, the Licence and the way it may be
 accessible, concluded, stored and reproduced by the Licensee.
 
-12. Termination of the Licence
+## 12. Termination of the Licence
 
 The Licence and the rights granted hereunder will terminate automatically upon
 any breach by the Licensee of the terms of the Licence.
@@ -235,7 +236,7 @@ Such a termination will not terminate the licences of any person who has
 received the Work from the Licensee under the Licence, provided such persons
 remain in full compliance with the Licence.
 
-13. Miscellaneous
+## 13. Miscellaneous
 
 Without prejudice of Article 9 above, the Licence represents the complete
 agreement between the Parties as to the Work.
@@ -245,7 +246,7 @@ law, this will not affect the validity or enforceability of the Licence as a
 whole. Such provision will be construed or reformed so as necessary to make it
 valid and enforceable.
 
-14. Jurisdiction
+## 14. Jurisdiction
 
 Without prejudice to specific agreement between parties,
 
@@ -254,7 +255,7 @@ Without prejudice to specific agreement between parties,
   jurisdiction of the competent court where the Licensor resides or conducts
   its primary business.
 
-15. Applicable Law
+## 15. Applicable Law
 
 Without prejudice to specific agreement between parties,
 
